@@ -1,0 +1,33 @@
+body{
+    background-color: hsl(214, 81%, 60%);
+}
+
+header{
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+}
+
+section{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px hsla(0, 0%, 0%, 0.36);
+}
+
+img{
+    display: block;
+    margin-left: 30%;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    margin-top: 20px;
+    
+}
+
+footer{
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+    font-style: italic;
+}
